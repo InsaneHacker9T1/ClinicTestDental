@@ -1,0 +1,5 @@
+{
+  "name": "BrightSmile Dental Care",
+  "description": "Premium dental clinic website for BrightSmile Dental Care in New York, offering advanced dental services with modern technology.",
+  "requestFramePermissions": ["geolocation"]
+}
